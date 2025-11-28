@@ -17,4 +17,3 @@ print(nome, sobrenome, sep="#")  # Altera o separador entre os valores para "#"
 # Guilherme Carvalho...
 # Guilherme#Carvalho
 
-float("a")
